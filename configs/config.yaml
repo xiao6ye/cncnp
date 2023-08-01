@@ -1,0 +1,24 @@
+server:
+  Name: "IOT"
+  Host: "0.0.0.0"
+  TcpPort: 8999
+  Version: "1.0"
+  MaxConn: 100
+  MaxPackageSize: 4096
+  WorkerPoolSize: 10
+mysql:
+  UserName: "root"
+  PassWord: ""
+  Host: "192.168.0.231"
+  Port: 3306
+  DataBase: "iot"
+  CharSet: "utf8"
+  MaxOpenConns: 200
+  MaxIdleConns: 100
+redis:
+  Host: "127.0.0.1"
+  Port: 6379
+  auth: ""
+log:
+  LogDir: "./logs"
+  LogFile: "app.log"

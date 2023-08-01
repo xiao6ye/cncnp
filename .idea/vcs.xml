@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../aite-iot-go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fault-location" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../go-gin-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../go-pubsub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../pd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../poweriot-pd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sdb-modbus" vcs="Git" />
+  </component>
+</project>
