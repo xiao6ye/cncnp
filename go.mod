@@ -1,4 +1,4 @@
-module zcnp
+module github.com/xiao6ye/zcnp
 
 go 1.15
 
